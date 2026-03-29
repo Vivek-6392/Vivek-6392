@@ -37,7 +37,7 @@
 
 🔗 https://github.com/Vivek-6392/NutriWise-AI-Powered-Diet-Nutrition-Assistant
 
-https://nutriwise-ai-powered-diet-nutrition-assistant.streamlit.app/
+🌐 https://nutriwise-ai-powered-diet-nutrition-assistant.streamlit.app/
 
 * Personalized diet recommendations using **ML + NLP**
 * LLM-powered conversational assistant
