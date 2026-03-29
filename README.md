@@ -23,6 +23,7 @@
 ### 📚 Ask-My-Docs — Production RAG System
 
 🔗 https://github.com/Vivek-6392/Ask-My-Docs
+
 🌐 https://ask-my-docs-v01.streamlit.app/
 
 * Hybrid retrieval (**BM25 + Vector Search**)
@@ -35,6 +36,8 @@
 ### 🥗 NutriWise — AI Nutrition Assistant
 
 🔗 https://github.com/Vivek-6392/NutriWise-AI-Powered-Diet-Nutrition-Assistant
+
+https://nutriwise-ai-powered-diet-nutrition-assistant.streamlit.app/
 
 * Personalized diet recommendations using **ML + NLP**
 * LLM-powered conversational assistant
@@ -93,8 +96,8 @@
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: https://linkedin.com/in/your-link
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+* 💼 LinkedIn: https://www.linkedin.com/in/theyadavvivek/
+* 📧 Email: [vivekyadavpalhana@gmail.com](mailto:vivekyadavpalhana@gmail.com)
 
 ---
 
