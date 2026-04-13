@@ -32,7 +32,17 @@
 * Streamlit UI with document ingestion pipeline
 
 ---
+### 🔭 RAG Monitoring & Observability
 
+🔗 https://github.com/Vivek-6392/rag-monitoring-and-observability
+
+🌐 https://rag-monitoring-and-observability.streamlit.app/
+
+* RAG Tracing: Tracked p95 latency/cost via span-based observability.
+* CI/CD Gates: Automated quality/regression checks via GitHub Actions.
+* LLM-as-Judge: Scored RAG accuracy using LLaMA 3 & golden datasets.
+* Full-Stack RAG: Built with Streamlit, ChromaDB, and Groq inference.
+---
 ### 🥗 NutriWise — AI Nutrition Assistant
 
 🔗 https://github.com/Vivek-6392/NutriWise-AI-Powered-Diet-Nutrition-Assistant
