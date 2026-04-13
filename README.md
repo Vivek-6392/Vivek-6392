@@ -46,16 +46,6 @@
 
 ---
 
-### 💳 ReconAI — Financial Reconciliation System
-
-🌐 https://reconciliation-tau.vercel.app
-
-* Detects financial discrepancies using AI
-* Real-time dashboard with actionable insights
-* Built for scalable transaction analysis
-
----
-
 ## 🧠 Tech Stack
 
 ### 💻 Languages
